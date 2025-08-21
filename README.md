@@ -1,12 +1,12 @@
-# Luis Oblitas
+# Kevin Oblitas
 
-**Desarrollador Full Stack | React | Node.js | Python**
+**Desarrollador Full Stack | React | Node.js | Python | Android**
 
 Apasionado por crear soluciones innovadoras y aprender nuevas tecnologías
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Visita%20mi%20sitio-blue?style=for-the-badge)](https://portafolio-oblitas.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-blue?style=for-the-badge)](https://www.linkedin.com/in/tuperfil)
-[![Email](https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge)](mailto:luis@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-blue?style=for-the-badge)]([https://www.linkedin.com/in/oblitas/)
+[![Email](https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge)](mailto:oblisestrada@egmail.com)
 
 ## 👨‍💻 Acerca de mí
 
@@ -59,16 +59,22 @@ Panel de control interactivo para visualización y análisis de datos con gráfi
 
 ## 📫 ¿Dónde encontrarme?
 
-- **📍 Ubicación:** Perú
-- **📧 Email:** luis@example.com
+- **📍 Ubicación:** Bolivia
+- **📧 Email:** oblisestrada@gmail.com
 - **🌐 Portafolio:** [portafolio-oblitas.vercel.app](https://portafolio-oblitas.vercel.app/)
 - **💼 LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/tuperfil)
 
 ## 🎓 Educación y Certificaciones
 
-- **Ingeniería de Sistemas** - Universidad Nacional de Ingeniería (2015-2020)
-- **AWS Certified Developer Associate** - Amazon Web Services (2021)
-- **Scrum Master Certification** - Scrum.org (2022)
+- **Ingeniería de Sistemas** - Escuela Militar de Ingenieria (2019-2024)
+- **WEB Certified Developer** - - Data Flair (2025)
+- **CSS Certified** - Data Flair (2024)
+- **HTML Crtified** - Data Flair (2024)
+- **CVTT Certified** - Escuela Militar de Ingenieria (2023)
+- **Angular Certified** - Data Flair (2025)
+- **SQL Certified** - Data Flair (2025)
+- **C# Certified** - Data Flair (2025)
+
 
 ---
 
