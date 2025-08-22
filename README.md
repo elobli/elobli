@@ -27,9 +27,11 @@ Mi objetivo es crear software de alta calidad que brinde valor a los usuarios y 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C#](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Angular](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📂 Proyectos Destacados
 
@@ -48,7 +50,7 @@ Plataforma web informativa y de reservaciones de citas.
 ### 📊 KaypiKani Page
 Panel de envios de ordenes conecatdo con app mobil y informativa.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Supabase](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 ## 📫 ¿Dónde encontrarme?
@@ -74,4 +76,4 @@ Panel de envios de ordenes conecatdo con app mobil y informativa.
 
 ¡No dudes en contactarme para colaborar en proyectos interesantes!
 
-Última actualización: Agosto 2023
+Última actualización: Agosto 2025
