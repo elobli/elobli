@@ -5,7 +5,7 @@
 Apasionado por crear soluciones innovadoras y aprender nuevas tecnologías
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Visita%20mi%20sitio-blue?style=for-the-badge)](https://portafolio-oblitas.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-blue?style=for-the-badge)]([https://www.linkedin.com/in/oblitas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-blue?style=for-the-badge)](https://www.linkedin.com/in/oblitas/)
 [![Email](https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge)](mailto:oblisestrada@egmail.com)
 
 ## 👨‍💻 Acerca de mí
